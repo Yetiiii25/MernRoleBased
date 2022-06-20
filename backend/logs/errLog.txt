@@ -1,1 +1,3 @@
 20220530	15:17:15	6ca9a8ea-05ff-4cfc-aaf2-f77817300300	Error: Not allowed by CORS
+20220620	14:36:43	515735dc-9954-41f8-87a7-56497038fc2a	Error: ENOENT: no such file or directory, stat 'D:\PROJECTS\Project 13 - Protected Routes\backend\frontend\build\index.html'
+20220620	14:39:10	618d0737-337a-49f0-9882-16a387dcc0f2	Error: ENOENT: no such file or directory, stat 'D:\PROJECTS\Project 13 - Protected Routes\backend\frontend\build\index.html'
